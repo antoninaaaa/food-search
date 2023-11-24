@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/food-search/static/css/main.05fe935c.css",
+    "main.js": "/food-search/static/js/main.0ed41b46.js",
+    "static/js/787.1a8228bb.chunk.js": "/food-search/static/js/787.1a8228bb.chunk.js",
+    "static/media/video.mp4": "/food-search/static/media/video.54d179354c5a75677e93.mp4",
+    "index.html": "/food-search/index.html",
+    "main.05fe935c.css.map": "/food-search/static/css/main.05fe935c.css.map",
+    "main.0ed41b46.js.map": "/food-search/static/js/main.0ed41b46.js.map",
+    "787.1a8228bb.chunk.js.map": "/food-search/static/js/787.1a8228bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05fe935c.css",
+    "static/js/main.0ed41b46.js"
+  ]
+}
